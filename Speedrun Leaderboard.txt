@@ -1,0 +1,39 @@
+Speedrun Leaderboard
+Mission			#R	#1Time	#2Diff	#P	Diff
+==============================================
+Bloodlust		#1	19:59	00:57	5	Hard
+Creepside		#1	19:33	05:04	4	Medium
+Decay 	  (Int)	#1	16:12	00:43	5	Medium
+Decay 	  (Exp)	#1	18:24	03:57	5	Medium
+Decompose		#1	15:37	00:19	4	Medium
+Ghost Town(Int)	#1	14:06	00:39	4	Hard
+Ghost Town(Adv)	#1	18:03	02:11	4	Medium
+Heatrock		#2	17:01	00:08	4	Easy
+Legerdemain		#2	14:42	00:34	3	Easy
+Lostvalley		#4	14:04	02:01	3	Easy
+Madhatttan(Int)	#2	14:08	00:40	1	??
+Madhatttan(Adv)	#5	20:25	01:53	1	??
+Madhatttan(Exp)	#9	20:17	00:55	1	??
+Marsbase		#-	15:25	00:04		Easy
+Nightsky		#1	17:17	00:43	3	Medium
+Null			#-	22:35	00:40		??
+Oxidize			#-	16:49	03:13		??
+Shadows			#-	32:37	00:18		??
+Shank 	   (PP)	#1	15:57	00:16	5	Hard
+Shank	   (SG)	#-	22:04	00:16		??
+Shank 	   (DD)	#2	18:41	02:45	4	Easy		
+Shank 	   (MS)	#1	19:10	04:23	5	Hard
+Skeleclipse(CC)	#10	14:22	00:11	1	??
+Skeleclipse(Su)	#-	15:21	01:17	1	??
+Skeleclipse(SS)	#-	17:05	00:48		??
+Skeleclipse(WT)	#-	15:44	00:14		??
+Spacepost		#3	20:35	03:34	4	Easy
+Swirl	   (CC)	#1	19:35	01:34	4	Medium	
+Swirl	   (RW)	#3	15:18	00:42	5	Easy
+Swirl	   (TT)	#3	22:13	00:22	4	Easy
+Villa			#-	20:20	00:34		??
+Whitecliff (DD)	#-	23:12	00:29		Medium
+Whitecliff(DOV)	#4	15:00	01:18	4	Easy
+
+Total category leads: 12/33
+Last updated: 18:08 UTC, 06/11

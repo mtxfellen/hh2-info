@@ -1,0 +1,557 @@
+====CowsVsMachines Top Secret Document====
+=Cactus' Overclock Upgrades Documentation=
+
+ - Overclock Upgrades are an attempt to increase the usage of weapons considered classically
+   underpowered in MvM; their specifics are detailed in this document.
+	 - Note: some maps may change these upgrades individually, so use this as a reference for
+			 stock values only.
+		 - Some maps may allow multiple tiers of these upgrades to be bought, but by default 
+		   all are restricted to a single tier
+ - At the time of writing (29/10/22), missions with Overclock Upgrades are:
+	Decay - Diptera Dash (Intermediate)
+	Decompose - Ghoulish Genesis (Advanced)
+	Legerdemain - Shrouded Shrieks (Advanced)
+	Lostvalley - Spine Thief (Intermediate)
+	Madhattan - Diamonds In The Rough (Expert)
+	Madhattan - Night Shift (Intermediate)
+	Marsbase - Secret Struggle (Advanced)
+	Null - Call Of The Void (Expert)
+	Swirl Event - Trickster Terror (Advanced)
+ 
+Scout
+ - Primaries
+	 - Unstable Mod: Hefty Shells
+		 + 20% bullets per shot 
+		 + Hype no longer lost from damage 
+		 - 50% accuracy 
+		 - 35% slower reload
+		Available on: 
+			Scattergun
+			Baby Face's Blaster
+			Back Scatter
+	 - Unstable Mod: Special Delivery
+		 + 25 max hp 
+		 + 50% faster reload 
+		 - 25% damage penalty 
+		 - 15% slower firing speed
+		Available on: 
+			Shortstop
+	 - Stable Mod: Lighter Barrel
+		 + 10% Damage bonus
+		 + Slows enemies on hit
+		 - No knockback
+ - Secondaries
+	 - Stable Mod: Combo Bullets
+		 + For every kill, gain 5 seconds of crit boost
+		Available on: 
+			Pistol
+			Pretty Boy's Pocket Pistol
+			Winger
+		Additional Notes:
+			Behaves consistent with the upgrade; only kills with the pistol apply this but the
+			crits can transferred across weapons
+	 - Stable Mod: Battalion's Bonk-up
+		 + Replaces Bonk! effect with Battalion's Backup effect
+		Available on: 
+			Bonk! Atomic Punch
+	 - Stable Mod: Hot Knife
+		 + Projectile ignites and marks target on hit
+		Available on:
+			Flying Guillotine
+ - Melee
+	 - Unstable Mod: Support Swing
+		 + On Hit: apply Mark for Death and Mad Milk
+		 - -25 max hp 
+		 - -50% damage penalty
+		Available on:
+			Atomizer
+			Bat
+			Boston Basher
+			Candy Cane
+			Sun-on-a-Stick
+			Wrap Assassin
+	 - Stable Mod: Craftsman's Bat
+		 + On Hit: Bleed for 5 seconds 
+		 + +15 max health 
+		 + +300% bleed damage
+		Available on:
+			Boston Basher
+			Sandman
+	- Clean Overclock: Sugar Shock
+		 + Marks Target for death 
+		 + +75% health from packs
+		Available on:
+			Candy Cane
+	- Stable Mod: Soul Scorcher
+		 + 800% damage to burning enemies 
+		 + All players connected via Medigun beams are hit
+		Available on:
+			Sun-on-a-Stick
+
+Soldier
+ - Primaries
+	 - Unstable Mod: RPG Module
+		 i Rockets now arc 
+		 + +35% damage bonus 
+		 + +35% blast radius
+		 - Clip size is restricted to 1
+		Available on:
+			Original
+			Rocket Launcher
+	 - Unstable Mod: Extra Gunpowder
+		 + +20% damage bonus
+		 + +20% damage to tanks
+		 + Attacks pierce damage resistances
+		 - 20% smaller blast radius 
+		 - -25% clip size
+		Available on:
+			Direct Hit
+	 - Unstable Mod: Tank Buster
+		 + Heal on hit stacks with multiple enemies
+		 + +20% damage Vs. Tanks 
+		 - -25% slower projectile speed
+		Available on:
+			Black Box
+	 - Unstable Mod: Burst Chamber
+		 + +40% firing speed
+		 + 35% larger blast radius 
+		 - -10% damage penalty
+		Available on:
+			Liberty Launcher
+	 - Unstable Mod: Smart Rockets
+		 + +25% increase to rocket jump bonuses 
+		 + Rockets follow cross-hair 
+		 - -50% clip size 
+		 - -35% slower projectile speed
+		Available on:
+			Air Strike
+		Additional Notes:
+			The first line translates in practice to an additional +46.25% attack speed and
+			-5% blast radius whilst rocket jumping.
+	 - Stable Mod: Cash Vacuum
+		 + +300% Cash Collection Range 
+		 + Heal 60 from cash collected
+		Available on:
+			Rocket Jumper
+ - Secondaries
+	 - Stable Mod: Debuff Rounds
+		 + Weapon will now mark 1 target for death
+		Available on:
+			Righteous Bison
+			Shotgun
+			Reserve Shooter
+			Panic Attack
+	 - Unstable Mod: Air-raid rounds
+		 + Deals crits and fires 40% faster while rocket jumping
+		 + +50% accuracy 
+		 - -50% slower firing speed
+		Available on:
+			Reserve Shooter
+	 - Stable Mod: Titanium Soles
+		 + Increased cash collection range 
+		 + Fall damage immunity 
+		 + +50% primary ammo
+		Available on:
+			Gunboats
+			Mantreads
+	 - Stable Mod: Padded Soles
+		 + Increased air control and can re-deploy
+		Available on:
+			B.A.S.E Jumper
+ - Melee
+	 - Stable Mod: Bot Basher
+		 + When active: +50% damage bonus 
+						+50% buff duration
+		Available on:
+			Disciplinary Action
+			Equalizer
+			Escape Plan
+			Shovel
+	 - Stable Mod: Magnetic Spike
+		 + Increased cash collection radius
+		 + +100% melee range
+		Available on:
+			Pain Train
+	 - Stable Mod: Titanic Toppler
+		 + Damages all enemies connected via medi-beam 
+		 + +100% damage to giant robots
+		Available on:
+			Market Gardener
+
+Pyro
+ - Primaries
+	 - Stable Mod: Caustic Fumes
+		 + +15% damage bonus
+		 + On hit: Bleed for 5 seconds
+		Available on:
+			Flame Thrower
+		Additional Notes:
+			Rumour has it this also pierces resistances.
+	 - Unstable Mod: Leech Valve
+		 + +15 hp per hit 
+		 - -10% damage penalty
+		Available on:
+			Dragon's Fury
+	 - Unstable Mod: Gas Jockey
+		 + +10% movement speed
+		 + +50% faster airblast 
+		 + Attacks pierce damage resistances 
+		 - 10% less damage 
+		 - Airblast no longer pushes back robots
+		Available on:
+			Degreaser
+		Additional Notes:
+			Not sure that 'Airblast no longer pushes back robots' is entirely a downside...
+ - Secondaries
+	 - Unstable Mod: Volcanic Compound
+		 + +75% damage bonus 
+		 - -35% slower projectile speed
+		Available on:
+			Detonator
+			Flare Gun
+			Manmelter
+			Scorch Shot
+	 - Stable Mod: Australian Gas
+		 + Gas effect now covers robots in Jarate
+		Available on:
+			Gas Passer
+	 - Stable Mod: Titanium Soles
+		 + Increased cash collection range 
+		 + Fall damage immunity 
+		 + +50% primary ammo
+		Available on:
+			Thermal Thruster
+	 - Stable Mod: Combo Slugs
+		 + On Kill: 5 seconds of mini-crits 
+		 + +35% damage bonus
+		Available on:
+			Panic Attack
+ - Melee
+	 - Stable Mod: Heavy Mallet
+		 + When active: +35% bullet resistance 
+						+75% resistant to knockback
+		Available on:
+			Homewrecker
+	 - Stable Mod: Armor Breaking
+		 + +20% damage 
+		 + +35% bonus damage against tanks and giants
+		Available on:
+			Axtinguisher
+			Fire Axe
+			Neon Annihalator
+			Powerjack
+			Sharpened Volcano Fragment
+	 - Unstable Mod: Draining Coils
+		 + On hit: drain 15% medigun charge from victim 
+		 - -15 maximum health
+		Available on:
+			Third Degree
+	 - Stable Mod: Team Bonding
+		 + 70% melee range 
+		 + +85% damage bonus 
+		 + On ally hit: gives both players a speed boost for 5 seconds
+		Available on:
+			Hot Hand
+
+Demoman
+ - Primaries
+	 - Unstable Mod: Mortar Mode
+		 + 50% larger blast radius 
+		 - -25% clip size
+		Available on:
+			Grenade Launcher
+	 - Unstable Overclock: Scatter Bombs
+		 + Fires 4 pipes
+		 + Increased damage when exploded via timer 
+		 - -95% less direct damage 
+		 - -80% slower firing speed
+		Available on:
+			Iron Bomber
+		Additional Notes:
+			Rumour has it this also has a slight reduction in tank damage and pipes also don't explode on impact
+	 - Unstable Mod: Burst Chamber
+		 + Weapon now fires 2 bombs simultaneously 
+		 - -50% smaller blast radius 
+		 - -25% damage penalty
+		Available on:
+			Loch-n-Load
+	 - Stable Mod: Padded Soles
+		 + Increased air control and can re-deploy
+		Available on:
+			B.A.S.E Jumper
+ - Secondaries
+	 - Unstable Mod: Extra Adhesive
+		 + 20% faster arm-time 
+		 + Bombs stick to enemies 
+		 - -2 max active sticky bombs
+		Available on:
+			Stickybomb Launcher
+	 - Unstable Mod: Overloaded Drum
+		 i Now uses Beggar's style reload 
+		 + +35% faster firing speed 
+		 - +6 degree spread 
+		 - -2 max active sticky bombs
+		Availble on:
+			Scottish Resistance
+	 - Stable Mod: Titanium Soles
+		 + Increased cash collection range 
+		 + Fall damage immunity 
+		 + +50% primary ammo
+		Available on:
+			Sticky Jumper
+ - Melee
+	 - Unstable Overclock: Gardner Module
+		 + Crits while airbone
+		 + Damages all connected via medi-beam 
+		 + +50% damage vs. giants 
+		 - 25% slower swing speed
+		Available on:
+			Bottle
+	 - Balanced Overclock: Cushioned Explosive
+		 + Grenade is not destroyed on hit 
+		 + No self-knockback 
+		 - 50% self damage vulnerability
+		Available on:
+			Ullapool Caber
+	 - Unstable Mod: Soul Contract
+		 + When weapon is active: +20% resistance to bullets and blast 
+		 - Weapon is now honorbound 
+		 - -90% primary and secondary ammo
+		Available on:
+			Eyelander
+			Scotsman's Skullcutter
+	 - Stable Mod: Cash Vacuum
+		 + +300% Cash Collection Range 
+		 + Heal 60 from cash collected
+		Available on:
+			Claidheamh Mòr
+			Half-Zatoichi
+			Persian Persuader
+Heavy
+ - Primaries
+	 - Unstable Mod: Defense Framework
+		 + Damage resistance while spun-up increased by 15% 
+		 + Spin-up time penalty is removed
+		 - Movement is disabled while spun-up
+		Available on:
+			Brass Beast
+	 - Unstable Mod: Leadstorm
+		 + +20% damage 
+		 + +30% faster spinup 
+		 - -100% move speed while spun-up 
+		 - -20% resistance when spunup below 50% health
+		Available on:
+			Natascha
+		Additional Notes:
+			Last line simply cancels out the resistance stat on the default Natascha
+	 - Unstable Mod: Optimized Barrel
+		 + Attacks pierce damage resistances 
+		 + No movement penalty when spun-up 
+		 - -25% max ammo
+		Available on:
+			Tomislav
+	 - Unstable Mod: Bigger Bullets
+		 + +10% damage bonus 
+		 - 200% faster ammo drain
+		Available on:
+			Huo-Long Heater
+ - Secondaries
+	 - Stable Mod: Mannly Meal
+		 + Consume Steak faster
+		 + Effect now also grants Concheror effect
+		Available on:
+			Buffalo Steak Sandvich
+		Additional Notes:
+			Maybe has some tankbusting potential, but you still lose access to your minigun
+	 - Stable Mod: Combo Slugs
+		 + On Kill: 5 seconds of mini-crits 
+		 + +35% damage bonus
+		Available on:
+			Family Busines
+			Panic Attack
+			Shotgun
+ - Melee
+	 - Stable Mod: More Storage Space
+		 + 35% faster switch speed 
+		 + +25% minigun ammo
+		Available on:
+			Fists
+			Holiday Punch
+	 - Unstable Mod: Warrior's Code
+		 + +30% damage resistance 
+		 + Weapon crits when it would normally minicrit 
+		 - Weapon is honorbound 
+		 - -30% slower swing speed
+		Available on:
+			Warrior's Spirit
+			
+Engineer
+ - Primaries
+	 - Balanced Overclock: Sentry Companion A.I
+		 + +30% damage to sentry's targets 
+		 + +25% sentry range 
+		 - 25 increased metal per shot
+		Available on:
+			Widowmaker
+	 - Unstable Mod: Custom Engineered Shotgun
+		 + Use 150 metal to pick up your buildings from long range 
+		 + Pomson projectile is 50% faster 
+		 - Self mark for death when hauling buildings
+		Available on:
+			Shotgun
+			Frontier Justice
+			Panic Attack
+			Pomson 6000
+			Widowmaker
+	 - Stable Mod: Combo Slugs
+		 + On Kill: 5 seconds of mini-crits 
+		 + +35% damage bonus
+		Available on:
+			Panic Attack
+			Shotgun
+ - Secondaries
+	 - Stable Mod: Sentry Companion
+		 + +50% max building health 
+		 + +35% damage to sentry targets 
+		 + 2-Way Teleporter
+		Available on:
+			Pistol
+	 - Unstable Mod: Overclocked Circuit
+		 + Primary fire now fires an explosive
+		 + +50% max building health 
+		 - 250% slower firing speed
+		Available on:
+			Short Circuit
+ - Melee
+	 - Stable Mod: Mobile Processors
+		 + +1 Disposable sentry gun 
+		 + 50% more efficient dispenser and teleporter 
+		 + Canteens are 20$ cheaper and last 2 seconds longer
+		Available on:
+			Gunslinger
+	 - Unstable Mod: Unstable Mechanisms
+		 + +35% sentry damage bonus 
+		 - No metal from dispensers while active
+		Availble on:
+			Southern Hospitality
+	 - Clean Overclock: Tuned Capacitor
+		 + Construction rate penalty is removed
+		Available on:
+			Eureka Effect
+
+Medic
+ - Primaries
+	 - Unstable Mod: Support Bolts
+		 + On hit: Apply 3 seconds of Mad Milk 
+		 - -50% slower reload speed 
+		 - -25% damage penalty
+		Available on:
+			The Crusader's Crossbow
+	 - Balanced Overclock: Biohazard Needle
+		 + Applies Jarate on hit
+		 - 35% slower reload
+		 - -35% damage
+		 - Clip size are reduced by 75%
+		Available on:
+			Blutsauger
+			Overdose
+			Syringe Gun
+ - Secondaries
+	 - Unstable Mod: Pocket Shield Lens
+		 + Projectile shielddeals +20% damage 
+		 + +20% faster healing speed 
+		 + +15% faster uber build rate
+		 - Projectile shield is replaced by a smaller shield 
+		Available on:
+			Medi-gun
+			Kritzkreig
+	 - Unstable Mod: Prototype Module
+		 + +50% faster heal rate 
+		 + Medigun can heal buildings 
+		 + Share canteens with heal target
+		 - -50% overheal 
+		 - -20% slower uber rate on overhealed patients
+		Available on:
+			Quick-Fix
+ - Melee 
+	 - Stable Mod: Battery Leech
+		 + 15% uber on hit
+		Available on:
+			Amputator
+			Bonesaw
+			Solemn Vow
+			Vita-Saw
+	 - Stable Mod: Vamprism Module
+		 + Resist all ranged damage by 35% 
+		 + On hit or when active: release an aoe heal
+	 
+Sniper
+ - Primaries
+	 - Unstable Mod: Rifle Mastery
+		 + 50% charge rate 
+		 + 20% damage at full charge 
+		 + Drains 50% uber on hit 
+		 - -65% explosive headshot damage 
+		 - -50% damage on body shot
+		Available on:
+			Bazaar Bargain
+			Classic
+			Machina
+			Sniper Rifle
+			Sydney Sleeper
+	 - Unstable Mod: Rubber Compound
+		 + Arrows now bounce 
+		Available on:
+			Huntsman
+	 - Unstable Mod: Seeker Rounds
+		 + Damages all connected via medi-beam 
+		 + Classic no longer requires full-charge to headshot
+		 + +20% body shot damage 
+		 - -35% explosive headshot damage
+		Available on:
+			Classic
+			Huntsman
+ - Secondaries
+	 - Stable Mod: Debuff Rounds
+		 + Weapon will now mark 1 target for death
+		Available on: 
+			Cleaner's Carbine
+			SMG
+
+Spy
+ - Primaries
+	 - Balanced Overclock: Magnum Chamber
+		 i Uses Beggars Style Reload 
+		 + +75% damage bonus 
+		 + +180% damage while disguised 
+		 - -50% slower reload 
+		 - -35% mag size" 
+		Available on:
+			The Enforcer
+	 - Unstable Mod: Explosive Headshot
+		 + Explosive Headshots
+		 + No Crit falloff 
+		 - -50% slower reload 
+		 - -50% Mag size 
+		 - -20% slower firing speed
+		Available on:
+			Ambassador
+ - Secondaries
+	 - Unstable Mod: Chemical payload
+		 + Applies Jarate and Mad Milk
+		 - No Sapper Stun
+		Available on:
+			Red Tape Recorder
+			Sapper
+ - PDA
+	 - Unstable Mod: Cash Vacuum
+		 + +300% Cash Collection Range 
+		 + Heal 180 from collected cash
+		Available on:
+			Cloak and Dagger 
+			Invis Watch
+		Additional Notes:
+			There was a bug  reportedwhere you couldn't buy this without first equipping 
+			another weapon with an overclock upgrade; unsure if this has been patched.
+
+Accurate as of 06/11/22 Cactus Overclock Upgrades basefiles.

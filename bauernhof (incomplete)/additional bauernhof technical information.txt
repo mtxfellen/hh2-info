@@ -1,0 +1,35 @@
+additional bauernhof technical information
+
+zombie spawns
+grass
+setpos 2379 675 52
+setpos 1867 1168 52
+setpos 2400 -192 52
+setpos 2124 -771 52
+
+barn
+setpos 646 -1960 52
+setpos -1483 -3004 164
+setpos 392 -3818 191
+setpos 1399 -3192 113
+
+shadows
+setpos -3006 -1472 48
+setpos -3373 -107 44
+setpos -3200 1153 44
+
+hay
+setpos -1665 2538 84
+setpos -938 2877 72
+setpos 45 3057 115
+setpos 1148 2960 116
+
+tank spawns
+setpos -2048 -2432 24
+setpos -352 -3064 8
+setpos 1376 -945 24
+setpos 1376 1120 16
+setpos -8 1556 224
+setpos -792 2280 16
+setpos -3136 1272 24
+setpos -2296 -264 24
