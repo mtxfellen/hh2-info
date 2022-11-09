@@ -1,1 +1,1 @@
-![](/planning_phase_cropped.png)
+![](./planning_phase_cropped.png)
