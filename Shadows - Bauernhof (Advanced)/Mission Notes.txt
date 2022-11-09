@@ -62,7 +62,7 @@ Power-ups
 
 Zombies!
  - Basic
-	- Will attempt to mob and melee the player (65dmg).
+	- Will attempt to mob and melee the player (50dmg).
  - Grapplers
 	- Moves at 70% speed.
 	- Will attempt to mob and melee the player, intermittently attempting to grapple to them, rapidly closing the distance.
