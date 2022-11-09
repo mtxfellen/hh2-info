@@ -1,0 +1,230 @@
+   === CowsVsMachines Top Secret Document ===
+=== Shadows - Bauernhof (Adv) Strategy Notes ===
+
+Mission Notes
+ - This is an endurance mission, segmented into 20 rounds.
+   - You can only respawn on round end; if all players die before round end, the mission is failed.
+   - There are no re-animators in this mission, and players cannot buy-back.
+   - Players cannot join mid-wave, but they can join if they select a class between rounds.
+ - Players start with $500 cash.
+   - Additional money is gained when hitting ($10) and killing enemies ($50, $100 for headshot kill).
+ - There are a maximum of 26 zombies spawned at any given time.
+   - Zombies gain hp and speed each round.
+   - Most zombies emit sounds passively, revealing their location.
+   - All zombie hp is revealed when using 'tf_hud_target_id_disable_floating_health 0'.
+ - Weapons can be bought from a dumpster that spawns from Wave 2 onward.
+   - Weapons replaced by those from the dumpster are not lost - they can be equipped again
+     from the Upgrades Station under Extra Loadout Items, and the upgrades bought for those
+	 weapons remain intact.
+   - Weapon upgrades can be refunded from the upgrades station at any time.
+ - Vending machines provide various perks until death (they don't stack with themselves).
+     Saxton's Ale 			$2000		+150 max hp
+     Double Tap 			$2000		1.5x fire rate
+     Meraslixir				$3000		2x reload speed, move at 107% speed (stock medic/spy)
+     Ostarion's Reserve 	$1500		Protected from one fatal hit, disappears after 4? purchases.
+     Head Rattle 			$1500		Explosive Headshots Upgrade
+ - Accuracy is doubled whilst crouching.
+ - Accuracy is reduced 1/3 whilst moving (how is crouch-jumping handled?).
+ - Players and zombies deal no random crits.
+
+Class Notes
+	 - All classes move at 93% speed (stock Demoman).
+	 - All classes have 100hp base.
+	 - All classes can headshot by default; most projectiles, explosive weaponry and melee weapons cannot.
+	 - Players start with their secondary weapon and melee weapon, unless their choice is banned, in which
+	   case they start with the stock weapon for that slot.
+	Demoman
+	 - Starts with his primary instead of his secondary.
+	Engineer
+	 - Although you can use other wrenches, mini-sentries are enforced.
+	 - Teleporter recharge rate is doubled.
+	 - Buildings cannot be upgraded past level 1.
+	Medic
+	 - Starts with all slots unlocked.
+	 - You passively act as a level 1 dispenser.
+	 - You cannot gain ammo from dispensers.
+	 - Overheal amount is halved and decays much faster.
+	Sniper
+	 - Starts with all slots unlocked.
+	Spy is banned.
+
+Power-ups
+ - At the bomb hatch, power-ups spawn after 60-85s, which are activated by one team member running
+   over the hatch. 
+ - Where applicable, the team member that activates the powerup is the one that benefits
+   from its effects.
+ - Power-ups despawn at round end.
+ - Power-up effects
+    - Nuke (kills all alive zombies)
+    - Resupply
+    - Free Money (to a value of $2000)
+    - Instakill (all damage instantly kills target, including tanks)
+
+Zombies!
+ - Basic
+	- Will attempt to mob and melee the player (65dmg).
+ - Grapplers
+	- Moves at 70% speed.
+	- Will attempt to mob and melee the player, intermittently attempting to grapple to them, rapidly closing the distance.
+	- Typically has lower walk speed than basic zombies.
+ - Burners
+	- Moves at 120% speed.
+	- Ignites player on melee hit; can be fatal without any HP boost.
+ - Corroders
+	- Moves at 70% speed.
+	- Apply Gas that ignites on hit and halves player move speed.
+	- Wiggling will negate the gas slow effect.
+ - Crawlers
+	- Moves at 70% speed.
+	- 1.4x attack rate, but has low hit damage.
+	- Will launch itself at players every 14s or so.
+	- Has a terrible habit of getting stuck inside buildings (spawn, barn, rightside passthrough).
+ - Bruisers
+	- Moves at 93% speed.
+	- Charges at enemies, bash deals 88 dmg.
+		- Cannot turn whilst charging almost at all.
+	- Melee attack deals 78 dmg.
+ - Tanks
+	- Moves at 105% speed.
+	- High HP enemies that do 2x melee dmg & have 2x attack rate.
+	- Will occasionally taunt and throws rocks at players below a HP threshold.
+
+Stage Breakdown
+ - Recall that there are a maximum of 26 active zombies of any combination at once.
+ Stage 1 
+	  1.7s between spawns
+	  150 Zombie HP
+	- 12 Basic (80% mov)
+ Stage 2 
+	  18s intermission, 1.7s between spawns
+	  250 Zombie HP
+	- 21 Basic (82% mov)
+ Stage 3 
+	  18s intermission, 1.7s between spawns
+	  350 Zombie HP
+	- 29 Basic (84% mov)
+ Stage 4 
+	  18s intermission, 1.7s between spawns
+	  450 Zombie HP
+	- 32 Basic (86% mov)
+	- 5 Grapplers
+ Stage 5 
+	  18s intermission, 1.5s between spawns
+	  550 Zombie HP
+	- 35 Basic (88% mov)
+	- 5 Burners
+	- 5 Grapplers
+ Stage 6 
+	  18s intermission, 1.5s between spawns
+	  650 Zombie HP
+	- 43 Basic (90% mov)
+	- 7 Corroders
+ Stage 7 
+	  30s intermission, 6.5s between spawns
+	  Upgrades station is locked for wave duration
+	- 8 Tanks (8000HP)
+		- Throws rocks below 6000hp
+ Stage 8 
+	  20s intermission, 1.5s between spawns
+	  850 Zombie HP
+	- 35 Basic (94% mov)
+	- 5 Corroders
+	- 5 Crawlers
+	- 5 Grapplers
+ Stage 9 
+	  18s intermission, 1.5s between spawns
+	  950 Zombie HP
+	- 35 Basic (96% mov)
+	- 5 Corroders
+	- 5 Crawlers
+	- 5 Grapplers
+ Stage 10 
+	  18s intermission, 1.5s between spawns
+	  1045 Zombie HP
+	- 30 Basic (100% mov)
+	- 5 Grapplers
+	- 5 Corroders
+	- 5 Burners
+	- 5 Crawlers
+ Stage 11 
+	  18s intermission, 1.5s between spawns
+	  1149 Zombie HP
+	- 35 Basic (100% mov)
+	- 5 Corroders
+	- 5 Crawlers
+	- 5 Grapplers
+ Stage 12 
+	  30s intermission, 5s between spawns
+	  Upgrades station is locked for wave duration
+	- 9 Tanks (9680HP)
+		- Throws rocks below 8417hp
+ Stage 13 
+	  20s intermission, 1.5s between spawns
+	  1389 Zombie HP
+	- 26 Basic (103.5% mov, maxed out)
+	- 6 Bruisers
+	- 6 Corroders
+	- 6 Crawlers
+	- 6 Grapplers
+ Stage 14 
+	  18s intermission, 1.5s between spawns
+	  1527 Zombie HP
+	- 29 Basic
+	- 7 Corroders
+	- 7 Crawlers
+	- 7 Bruisers (1389hp)
+ Stage 15
+	  18s intermission, 1.5s between spawns
+	  1679 Zombie HP
+	- 38 Grapplers
+	- 12 Burners
+ Stage 16 
+	  30.5s intermission
+	  Upgrades station is locked for wave duration
+	  Seems to use tank spawn locations
+	- Giant Treadonator (62004hp, wields a chainsaw, occasionally fires rockets)
+	- Giant Battlelord (53146hp, wields a minigun, occasionally fires rockets)
+ Stage 17
+	  20s intermission, 1.5s between spawns
+	  2030 Zombie HP
+	- 30 Basic
+	- 5 Grapplers
+	- 5 Corroders
+	- 5 Bruisers
+	- 5 Crawlers
+	- 2 Tanks (15590HP)
+		- First spawns 15s into wave, then another 13s later
+		- Throws rocks below 13556 HP
+ Stage 18
+	  18s intermission, 1.5s between spawns
+	  2233 Zombie HP
+	- 30 Basic
+	- 5 Bruisers
+	- 5 Corroders
+	- 5 Crawlers
+	- 5 Grapplers
+ Stage 19
+	  18s intermission, 1.5s between spawns
+	  2456 Zombie HP
+	- 26 Basic
+	- 6 Bruisers
+	- 6 Corroders
+	- 6 Crawlers
+	- 6 Grapplers
+	- 2 Tanks (18863HP)
+		- First spawns 15s into wave, then another 13s later
+		- Throws rocks below 16403 HP
+ Stage 20
+	  18s intermission, 1.3s between spawns
+	  No audio cue
+	  2701 Zombie HP
+	- 51 Basic
+	- 7 Burners
+	- 7 Bruisers
+	- 7 Corroders
+	- 7 Crawlers
+	- 7 Grapplers
+	- 4 Tanks (20750HP)
+		- First spawns 17s into wave, then one every 30s
+		- Max 2 active at any time
+		- Throws rocks below 18043 HP

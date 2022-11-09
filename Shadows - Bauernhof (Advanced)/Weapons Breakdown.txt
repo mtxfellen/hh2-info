@@ -1,0 +1,293 @@
+=== CowsVsMachines Top Secret Document ===
+Bauernhof Weapons Breakdown
+ - Analysis of all Bauernhof Weapons Dumpster outcomes, including pull probabilities for each weapon and comments
+   on their efficacy, and some notes on starter picks.
+ - Includes an appendix on Uberweapons, although most of the ones I've tried were pure shit.
+ - As a rule of thumb, most starter weapons have a sizeable damage buff, and can headshot if they are bullet-based.
+
+ - General Upgrade Path
+	- Unless you intend to stick with your starter weapon, step 1 is to save up some cash and start pulling from the
+	  Weapon Dumpster. Fairly no-brainer.
+	- After that, DPS upgrades are the next best thing, assuming you have a consistent ammo suply. Fire rate, followed
+	  by Double Tap and then +100% Damage Bonus (where relevant).
+	- Secure some survivability - Saxton's Ale.
+	- Sort of a catch all for everything else here, the situation impacts what is the best selection too harshly to rank
+	  precisely.
+
+ - All classes can roll a dud outcome, causing the box to disappear for 20s before reappearing randomly at possible location.
+ - Scout
+	- Dud Chance: (1/14)
+	- Primary
+		- The Shortstop (1/7)
+		- The Force-a-Nature (1/7)
+		- The Scattergun (1/7)
+		- The Punch Packer (1/7)
+	  - Selection Comments
+		- The Shortstop is easily the worst in the category, whilst all the others have notable differences;
+		  the Punch Packer has highest burst DPS, whilst the FaN has highest single-shot dps, with the Scattergun
+		  striking a balance between the two.
+	- Secondary
+		- The SMG (1/7)
+		- The Stickybomb Launcher (1/7)
+		- The Ray Gun (1/14)
+	  - Selection Comments
+		- Scout should virtually always start with the pistol as it has the highest clip size.
+		  The SMG is worse than any of Scout's starting options, nor does it have an uberweapon upgrade.
+		  Not much needs to be said about the Ray Gun other than 13x damage, but the Uberweapon Stickybomb Launcher
+		  can potentially outclass it in certain scenarios:
+		  Ray Gun						Cactus Blast
+		  ========================================================
+		  + Effective at all ranges		+ Higher burst DPS (tanks)
+		  + Instant Damage (hitscan)	+ Can sticky jump (0.5x default push force)
+		  + Many hits ($10 gained per)	+ Better local crowd control
+		  - Rare ($950 per pull)		- Poor cash generation (better using another weapon first and saving)
+	- Melee
+		- The best utility melees for scout are the Candy Cane, the Atomizer and the Fan-o-War.
+			The Candy Cane increases explosive damage, so it doesn't combo so well with the Ray Gun or Stickybomb Launcher
+		  without having Saxton's Ale.
+			The Atomizer is the least useful of the three, but the extra mobility can save you on occasion.
+			The Fan-o-War is useless on waves without tanks, and even in Wave 20 they often die before you can close the
+		  distance, and often you'll die trying to mark a target. Only in Wave 16 (boss wave) did I managed to find much
+		  utility, and even then it's risky business.
+
+ - Soldier
+	- Dud Chance: (1/13)
+	- Primary
+		- The Rocket Launcher  (2/13)
+	- Secondary
+		- The Beam Rifle (1/13)
+		- The Cleaner's Carbine (2/13)
+		- The Double Barrel (2/13)
+		- The Ray Gun (1/13)
+		- The SMG  (2/13)
+		- The Tactigatling (1/13)
+		- Thunder Gun (1/13)
+	  - Selection Comments
+		- The reduced arsenal size of Soldier has been carefully balanced by making most options shit.
+		  Stick to the default Shotgun unless you prefer the Double Barrel.
+		  Stick with your Ray Gun once you pull it, the only other compelling option is the Rocket Launcher.
+	- Melee
+		- Equalizer is your best unbanned option.
+
+ - Pyro
+	- Dud Chance: (1/14)
+	- Primary
+		- The Dragon's Fury (1/7)
+		- The Flamethrower (1/7)
+		- The Minigun (1/7)
+	- Secondary
+		- The Double Barrel (1/7)
+		- The SMG (1/7)
+		- The Ray Gun (1/14)
+		- The Tactigatling (1/14)
+		- Thunder Gun (1/14)
+	  - Selection Comments
+		- Thanks to the presence of accuracy mechanics in this mission, the Minigun should make the best primary
+		  for Pyro, though even with its Uberweapon upgrade I still find it to be inferior to the Ray Gun for
+		  damage. It is, however, the perfect tool to fund the pulls for a Ray Gun - it easily generates the most
+		  cash out of any weapon.
+	- Melee
+		- The Hot Hand is your only unbanned utility option.
+		- Axtinguisher, Back Scratcher and Sharpened Volcano Fragment are your damage options. Largely useless
+		  except for the +HP from packs from the Back Scratcher.
+
+ - Demoman
+	- Dud Chance: (1/12)
+	- Secondary
+		- The Beam Rifle (1/12)
+		- The Double Barrel (1/6)
+		- The Ray Gun (1/12)
+		- The Shotgun (1/6)
+		- The SMG (1/6)
+		- The Stickybomb Launcher (1/6)
+		- The Tactigatling (1/6)
+	  - Selection Comments
+		- The Grenade Launcher is easily the best starter weapon, but being high-damage explossive weaponry is has
+		  very poor cash turnover, so getting your hands on a high fire rate weapon early is necessary; this will
+		  then allow you to begin to upgrade either your Pipe Launcher or Cactus Blast for maximum damage. Of course,
+		  should you pull a Ray Gun, this will all go out the window as it can both generate money for itself and deals
+		  sufficient damage to go through all waves.
+	- Melee
+		- Only usable options are Stock and the Caber.
+
+ - Heavy
+	- Dud Chance: (1/13)
+	- Primary
+		- The Flamethrower (2/13)
+		- The Minigun (2/13)
+	- Secondary
+		- The Beam Rifle (1/13)
+		- The Double Barrel (2/13)
+		- The Ray Gun (1/13)
+		- The SMG (2/13)
+		- The Tactigatling (1/13)
+		- Thunder Gun (1/13)
+	  - Selection Comments
+		- The Minigun's uberweapon is your best primary, and your best secondary is of course the Ray Gun; these have
+		  already been commented on above, and so has been sticking with your Shotgun or Double Barrel until you pull one.
+	- Melee
+		- The Killing Gloves of Boxing and Warrior's Spirit are your best unbanned options.
+
+ - Engineer
+	- Dud Chance: (1/11)
+	- Primary
+		- The B.M.M.H (1/11)
+		- The Nostromo Napalmer (2/11)
+		- The Punch Packer (1/11)
+		- The Scattergun (1/11)
+		- The Shotgun (1/11)
+	- Secondary
+		- The Ray Gun (1/11)
+		- The SMG (2/11)
+	  - Selection Comments
+		- The Ray Gun is of course your best secondary, but you have some pretty goood selection of primaries until you get it.
+		  Strictly speaking, the Scattergun is better than the Shotgun, some may prefer the Punch Packer over the Shotgun. In
+		  either case, the B.M.M.H is easily the best shotgun at your disposal despite its abysmal dropoff (does 7x base damage, 
+		  no headshots, higher dmg than Ray Gun at close range, contender for top tank DPS); the Flamethrower option just seems 
+		  worse than a shotgun on grounds of effective range.
+	- Melee
+		- The Eureka Effect, Gunslinger and Jag all have their own utility here; of note, the Gunslinger only provides +25hp
+		  in exchange for lower sentry DPS.
+
+ - Medic
+	- Dud Chance: (1/13)
+	- Primary
+		- The Black Box (1/13)
+		- The Crusader's Crossbow (2/13)
+		- Das Maschinenpistole (1/13)
+		- The Flamethrower (2/13)
+		- The Punch Packer (2/13)
+		- The Scattergun (2/13)
+		- The SMG (2/13)
+	  - Selection Comments
+		- The Blutsauger is probably your best starter given that you can't start with the Crossbow.
+		- The Crusader's Crossbow has 4x base dmg.
+		- Das Maschinenpistole is an SMG with 5x base dmg of the Syringe Gun per shot.
+		- Black Box is probably? best outcome, again, be aware that it's an explosive weapon so generating
+		  cash with it will suck, so run something else initially. Note that you fire the entire clip at once, and cannot
+		  rocket jump with it.
+		- Factor in that you cannot get ammo from dispenser as Medic in you upgrade and weapon selection; note that you can
+		  get ammo from an engineer blowing up one of their buildings, however.
+	- Melee
+		- It's the Ubersaw. What else?
+
+ - Sniper
+	- Dud Chance: (1/15)
+	- Primary
+		- The Crusader's Crossbow (2/15)
+		- The Scattergun (2/15)
+		- The Stickybomb Launcher (2/15)
+	- Secondary
+		- The Beam Rifle (1/15)
+		- The Cleaner's Carbine (1/15)
+		- The Double Barrel (2/15)
+		- The Punch Packer (1/15)
+		- The Ray Gun (1/15)
+		- The Shotgun (2/15)
+	  - Selection Comments
+		- This class largely sucks. You have the worst pull outcomes of any class, but you are in a unique
+		  position with the Carbine providing on-demand mini-crits, which you can combo with the Cactus Blast
+		  for hilarious burst DPS. Probably insufficient for me to take it seriously, however. It's also seriously
+		  buggy on this class - sometimes you just lose access to it for the whole game, with no workaround.
+	- Melee
+		- Bushwacka is probably still best with the Carbine. Without it, you have a selection of anything from
+		  the Shahanshah (best panic option), Stock (most reliable), or the Tribalman's Shiv (best DPS).
+
+ - Uberweapons (unsure if all these stats are correct, some pertinent info may be missing)
+   - Note that most Uberweapons cannot be upgraded; the listed stats are compared to their UNUPGRADED base weapons, and so
+	 may actually be worse than a fully upgraded base.
+   - Uberweapons are almost always worse than just rerolling for a new weapon.
+	- The Thunder Gun
+		- The only uberweapon you do not need to meet any prerequisites for; you can simply pull it from the dumpster.
+			- If you already have the Thunder Gun, you will instead pull a Double Barrel with continued pulls.
+		- Did something around 3200~ dmg unupgraded per shot whilst testing.
+		- Has a range limited to slightly greater than melee, indicated by the particle effect when firing.
+			- Quite dangerous to use but could have tank potential
+	- The Zeus Cannon (Base: Thunder Gun)
+		- Seems to just be the Thunder Gun but with more dmg?
+	- Great Gatsby (Base: Pistol)
+		- 1.67x bullet damage
+	- The Pinch Hitter (Base: The Shortstop)
+		- Does 1.25x base Shortstop damage
+		- Clip size of 12
+		- 1.3x fire rate 
+		- 1.6x reload rate
+	- The Gut Wrecker (Base: The Double Barrel)
+		- 1.8x fire rate
+		- 1.25x bullet damage
+		- 2x bullets per shot
+	- The Boston Handshake (Base: Scattergun)
+		- 1.5x base damage
+		- 2x bullets per shot
+		- 1.6x fire rate
+		- 1.75x reload rate
+		- Anecdotally seems to have worse spread
+	- The Super Shotgun (Base: The Force-a-Nature)
+		- 1.5x bullet damage
+		- 1.5x bullets per shot
+		- 1.8x fire rate
+		- 1.8x reload rate
+	- Earth Shaker (Base: Rocket Launcher)
+		- 1.25x explosive damage
+		- 1.6x fire rate
+		- 0.2x reload rate
+	- Mule Kick (Base: Soldier Shotgun)
+		- 1.25x bullet damage
+		- 2x bullets per shot
+		- 2.3x fire rate
+		- 1.75x reload rate
+		- Recoil lmao
+	- Inferno Cannon (Base: The Dragon's Fury)
+		- 2.3x fire damage
+	- Face Melter (Base: Flamethrower)
+		- 2x fire damage
+	- Burning Love (Base: Pyro Shotgun)
+		- 3.75x bullet damage
+		- 1.5x bullets per shot
+		- Ignites enemies
+		- 3x damage vs burning enemies
+		- Anecdotally seems to have worse spread
+	- The Fat Boy (Base: Grenade Launcher)
+		- Explodes on Impact
+		- 2.9x explosive damage
+		- 0.5x damage falloff
+		- 2x blast radius
+		- Clip size of 1
+	- The Cactus Blast (Base: Stickybomb Launcher)
+		- 1.5x explosive damage
+		- 1.5x blast radius
+		- 1.15x fire rate
+		- Stickybombs stick to enemies
+		- 1.65x reload rate
+		- +5 projectile deviation
+	- Death Machine (Base: Minigun)
+		- 2x bullets per shot
+		- 500 primary ammo
+	- The Grand Slam (Base: Heavy Shotgun)
+		- 0.6x bullet damage
+		- 10x bullets per shot
+		- 3.5x fire rate
+		- Reload entire clip at once
+	- Dell-OROM's Lament (Base: Engineer Shotgun)
+		- Cannot Headshot
+		- 1.9x bullet damage
+		- 3x bullets per shot
+		- Bullets penetrate +1 enemies
+		- 2x fire rate
+		- Slow reload?
+	- DNA Rejuvenator (Base: Syringe Gun)
+		- Crap damage, fire rate, etc.
+		- Convert a zombie to fight for you after 5s on hit
+	- Durchbohren (Base: The Crusader's Crossbow)
+		- 2.25x bullet damage
+		- Clip size of 6
+		- 1.2x fire rate
+		- 1.25x damage per enemy penetrated
+	- The Love Tap (Base: The Sniper Rifle)
+		- Can upgrade to from any sniper rifle
+		- 3x headshot damage
+		- Bullets penetrate +2 enemies
+		- 3x charge rate
+	- The Bristleback (Base: The Huntsman)
+		- 2.7x bullet damage
+		- Fires +3 arrows in a horizontal spread
