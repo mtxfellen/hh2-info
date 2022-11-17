@@ -123,6 +123,7 @@ Soldier
 		 + Rockets follow cross-hair 
 		 - -50% clip size 
 		 - -35% slower projectile speed
+		 - -10% damage penalty
 		Available on:
 			Air Strike
 		Additional Notes:
@@ -205,6 +206,7 @@ Pyro
  - Secondaries
 	 - Unstable Mod: Volcanic Compound
 		 + +75% damage bonus 
+		 + Bleed targets for 3s
 		 - -35% slower projectile speed
 		Available on:
 			Detonator
@@ -441,12 +443,25 @@ Engineer
 
 Medic
  - Primaries
+	 - Unstable Overclock: Screwdriver Arrow
+		 + Causes heavy bleed on hit
+		 + Slight increased base damage
+		 + Additional dmg vs tanks
+		 + Faster projectiles
+		 - Lower reload rate, fire rate and move speed
+		 - Medigun heals much less
+		Available on:
+			Crusader's Crossbow
+		Additional notes:
+			Bleed ticks for 10 dmg
+			Dmg buff translates to 100 max base arrow damage 
+			Medigun nerf translates in practice to 15% of former healing rate
 	 - Unstable Mod: Support Bolts
 		 + On hit: Apply 3 seconds of Mad Milk 
 		 - -50% slower reload speed 
 		 - -25% damage penalty
 		Available on:
-			The Crusader's Crossbow
+			Crusader's Crossbow
 	 - Balanced Overclock: Biohazard Needle
 		 + Applies Jarate on hit
 		 - 35% slower reload
@@ -458,9 +473,9 @@ Medic
 			Syringe Gun
  - Secondaries
 	 - Unstable Mod: Pocket Shield Lens
-		 + Projectile shielddeals +20% damage 
+		 + Projectile shield deals +100% damage 
 		 + +20% faster healing speed 
-		 + +15% faster uber build rate
+		 + +20% faster uber build rate
 		 - Projectile shield is replaced by a smaller shield 
 		Available on:
 			Medi-gun
@@ -482,11 +497,20 @@ Medic
 			Solemn Vow
 			Vita-Saw
 	 - Stable Mod: Vamprism Module
-		 + Resist all ranged damage by 35% 
-		 + On hit or when active: release an aoe heal
+		 + When active: Resist all ranged damage by 35% 
+		 + On hit: AoE heal allies
+		 + On taunt: Applies Buff Banner and Concheror effect to allies
+		Available on:
+			Amputator
 	 
 Sniper
  - Primaries
+	 - Stable Mod: Anti Armor
+		 + +75% damage to tanks
+		Available on:
+			Classic
+			Sniper Rifle
+			Sydney Sleeper
 	 - Unstable Mod: Rifle Mastery
 		 + 50% charge rate 
 		 + 20% damage at full charge 
@@ -503,6 +527,9 @@ Sniper
 		 + Arrows now bounce 
 		Available on:
 			Huntsman
+		Additional Notes:
+			Rumour has it this provides 3x bleeding damage.
+			Projectiles have 3.5s lifetime after bouncing once.
 	 - Unstable Mod: Seeker Rounds
 		 + Damages all connected via medi-beam 
 		 + Classic no longer requires full-charge to headshot
@@ -512,6 +539,11 @@ Sniper
 			Classic
 			Huntsman
  - Secondaries
+ 	 - Stable Mod: Combo Bullets
+		 + For every kill, gain 5 seconds of crit boost
+		Available on: 
+			Cleaner's Carbine
+			SMG
 	 - Stable Mod: Debuff Rounds
 		 + Weapon will now mark 1 target for death
 		Available on: 
@@ -520,10 +552,19 @@ Sniper
 
 Spy
  - Primaries
+	 - Stable Mod: Combo Slugs
+		 + On Kill: 5 seconds of mini-crits 
+		 + +35% damage bonus
+		Available on:
+			Ambassador
+			Diamondback
+			Enforcer
+			L'Etranger
+			Revolver
 	 - Balanced Overclock: Magnum Chamber
 		 i Uses Beggars Style Reload 
 		 + +75% damage bonus 
-		 + +180% damage while disguised 
+		 + +300% damage while disguised 
 		 - -50% slower reload 
 		 - -35% mag size" 
 		Available on:
@@ -550,8 +591,5 @@ Spy
 		Available on:
 			Cloak and Dagger 
 			Invis Watch
-		Additional Notes:
-			There was a bug  reportedwhere you couldn't buy this without first equipping 
-			another weapon with an overclock upgrade; unsure if this has been patched.
 
-Accurate as of 06/11/22 Cactus Overclock Upgrades basefiles.
+Accurate as of 17/11/22 Cactus Overclock Upgrades basefiles.

@@ -1,17 +1,17 @@
 Speedrun Leaderboard
 Mission			#R	#1Time	#2Diff	#P	Diff
 ==============================================
-Bloodlust		#1	19:59	00:57	5	Hard
+Bloodlust		#1	19:49	00:09	6	VHard
 Creepside		#1	19:33	05:04	4	Medium
 Decay 	  (Int)	#1	16:12	00:43	5	Medium
 Decay 	  (Exp)	#1	18:24	03:57	5	Medium
-Decompose		#1	15:37	00:19	4	Medium
+Decompose		#1	14:42	00:54	6	VHard
 Ghost Town(Int)	#1	14:06	00:39	4	Hard
 Ghost Town(Adv)	#1	18:03	02:11	4	Medium
 Heatrock		#1	13:51	03:10	5	Medium
 Legerdemain		#2	14:42	00:34	3	Easy
 Lostvalley		#1	12:55	01:09	4	Easy
-Madhatttan(Int)	#1	13:10	00:58	4	Easy
+Madhatttan(Int)	#1	13:10	00:58	4	Hard
 Madhatttan(Adv)	#5	20:25	01:53	1	??
 Madhatttan(Exp)	#1	19:23	00:54	5	Medium
 Marsbase		#1	13:47	01:38	5	Hard
@@ -31,9 +31,9 @@ Spacepost		#3	20:35	03:34	4	Easy
 Swirl	   (CC)	#1	19:35	01:34	4	Medium	
 Swirl	   (RW)	#3	15:18	00:42	5	Easy
 Swirl	   (TT)	#3	22:13	00:22	4	Easy
-Villa			#1	15:04	05:16	6	Hard
+Villa			#1	15:04	05:16	6	Imposs
 Whitecliff (DD)	#-	23:12	00:29		Medium
 Whitecliff(DOV)	#4	15:00	01:18	4	Easy
 
-Total category leads: 20/33
-Last updated: 21:29 UTC, 09/11
+Total category leads: 19/33
+Last updated: 17:07 UTC, 17/11
