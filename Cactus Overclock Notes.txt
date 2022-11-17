@@ -472,6 +472,12 @@ Medic
 			Overdose
 			Syringe Gun
  - Secondaries
+	 - Clean Overclock: Overheal Optimization
+		 + +15% overheal
+		 + 10% increased uber rate on overhealed patients
+		Available on:
+			Medi-gun
+			Kritzkreig
 	 - Unstable Mod: Pocket Shield Lens
 		 + Projectile shield deals +100% damage 
 		 + +20% faster healing speed 
