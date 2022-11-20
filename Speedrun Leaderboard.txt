@@ -2,17 +2,17 @@ Speedrun Leaderboard
 Mission			#R	#1Time	#2Diff	#P	Diff
 ==============================================
 Bloodlust		#1	19:49	00:09	6	VHard
-Creepside		#1	19:33	05:04	4	Medium
+Creepside		#1	18:22	01:11	5	Medium
 Decay 	  (Int)	#1	16:12	00:43	5	Medium
 Decay 	  (Exp)	#1	18:24	03:57	5	Medium
 Decompose		#1	14:42	00:54	6	VHard
 Ghost Town(Int)	#1	14:06	00:39	4	Hard
 Ghost Town(Adv)	#1	18:03	02:11	4	Medium
 Heatrock		#1	13:51	03:10	5	Medium
-Legerdemain		#2	14:42	00:34	3	Easy
+Legerdemain		#1	12:26	02:16	5	Hard
 Lostvalley		#1	12:55	01:09	4	Easy
 Madhatttan(Int)	#1	13:10	00:58	4	Hard
-Madhatttan(Adv)	#5	20:25	01:53	1	??
+Madhatttan(Adv)	#1	16:57	03:55	6	Medium
 Madhatttan(Exp)	#1	19:23	00:54	5	Medium
 Marsbase		#1	13:47	01:38	5	Hard
 Nightsky		#1	17:17	00:43	3	Medium
@@ -20,20 +20,20 @@ Null			#1	17:09	05:26	5	Medium
 Oxidize			#1	09:54	06:55	5	Medium
 Shadows			#-	32:37	00:18		??
 Shank 	   (PP)	#1	15:57	00:16	5	Hard
-Shank	   (SG)	#-	22:04	00:16		??
-Shank 	   (DD)	#2	18:41	02:45	4	Easy		
+Shank	   (SG)	#1	18:41	01:49	6	Hard
+Shank 	   (DD)	#1	16:20	02:21	6	Hard		
 Shank 	   (MS)	#1	19:10	04:23	5	Hard
-Skeleclipse(CC)	#10	14:22	00:11	1	??
-Skeleclipse(Su)	#-	15:21	01:17	1	??
-Skeleclipse(SS)	#-	17:05	00:48		??
-Skeleclipse(WT)	#-	15:44	00:14		??
-Spacepost		#3	20:35	03:34	4	Easy
+Skeleclipse(CC)	#1	13:08	01:14	6	Hard
+Skeleclipse(Su)	#1	13:28	01:53	6	Hard
+Skeleclipse(SS)	#1	13:16	03:49	6	Medium
+Skeleclipse(WT)	#1	13:21	02:23	6	Medium
+Spacepost		#1	17:16	03:19	6	Hard
 Swirl	   (CC)	#1	19:35	01:34	4	Medium	
-Swirl	   (RW)	#3	15:18	00:42	5	Easy
-Swirl	   (TT)	#3	22:13	00:22	4	Easy
+Swirl	   (RW)	#1	14:17	01:01	5	Medium
+Swirl	   (TT)	#1	18:28	03:45	6	Hard
 Villa			#1	15:04	05:16	6	Imposs
-Whitecliff (DD)	#-	23:12	00:29		Medium
-Whitecliff(DOV)	#4	15:00	01:18	4	Easy
+Whitecliff (DD)	#1	20:02	03:10	6	Hard
+Whitecliff(DOV)	#1	11:32	03:28	6	VHard
 
-Total category leads: 19/33
-Last updated: 17:07 UTC, 17/11
+Total category leads: 32/33
+Last updated: 01:23 UTC, 20/11
