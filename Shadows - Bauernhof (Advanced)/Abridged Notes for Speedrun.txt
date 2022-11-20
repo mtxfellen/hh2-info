@@ -1,0 +1,217 @@
+=== CowsVsMachines Top Secret Document ===
+Speedrun Abridged Notes - Refer to other documents for more obvious or specific information.
+
+Recommended Team Composition
+- Refer to eagle-eye image to best position your team within the map
+ - 2x Engineer
+	- Can pull the B.M.M.H. and the Ray Gun
+		- B.M.M.H. has very good close range damage, the Ray Gun is op at any range
+	- Sentry gun can be used for additional damage/early warning system
+	- Dispenser range can be upgraded 10x in this mission and will sustain any weapon
+ - 2x Pyro
+	- Can pull the Thunder Gun and the Ray Gun
+		- The Zeus Cannon upgrade can kill giants before their taunt ends
+	- Can pull the Minigun
+		- Best money generator in the game
+		- Even if not using it or the uberweapon version for cash, it's still handly to
+		  have one at hand for insta-kill benefit if not using the Ray Gun.
+	- Normal shotgun (not-decorated/strange/etc.) can be upgraded to the Burning Love
+		- Worse damage than the Thunder Gun, superior range
+ - 2x Heavy
+	- Can pull the Thunder Gun and the Ray Gun
+	- Can pull the Minigun
+	- Acces to the Family Business
+		- Larger clip is superior early waves than the Shotgun
+	- Access to the KGB for crits
+		- Mostly beneficial early waves
+
+- Ideally, you want 4 Ray Guns & 2 Thunder Guns as soon as possible for an optimised run.
+	- During waves containing tanks, ensure any Thunder Gun/Burning Love users are evenly
+	  distributed across the map's tank spawns, and other players should aim to bait tanks
+	  towards those players, obviously shooting whilst doing so.
+	- Don't run in front of Ray Gun users.
+	- Thunder Gun users should prioritise Meraslixir to close the gap to zombies faster.
+- When fighting the two bosses in Stage 20, the Thunder Gun is typically a poor engagement choice,
+  unless:
+	- The boss is hard-focused on another player; do not touch the boss or it will turn around.
+		- You can of course attempt to circle-strafe around the boss to avoid damage.
+	- You have Ostarion's Reserve; the uber on first death will provide a fairly significant amount
+	  of time to deal damage before dying.
+	- Giant Treadonator is mid-enrage; it cannot attack for this short period, allowing you to sneak
+	  in a hit or two.
+		- Note that there is a range at which you can engage this boss without being hit by the chainsaw,
+		  but the rockets it occasionally fires will be pracitcally unavoidable at this range.
+
+Power-ups
+- Spawn at the bomb hatch after 60-85s, and have a 3% chance of dropping from zombies on death.
+  - As such, the team near the hatch should check on it frequently after 1 minute in each wave.
+  - Multiple hatch power-ups can spawn each wave, so pick up even useless ones to allow useful
+    ones to spawn.
+  - Zombie power-ups despawn after 30s if left untouched.
+- Fire Sale, Double Points and Bonus Points are useful early game, whilst Nuke and Instakill
+  are best late game.
+	- Instakill works on ANYTHING, including tanks and bosses, so preserve it for maximum effect.
+- Hatch power-ups despawn at stage end, so there is no point in preserving them to the next stage.
+
+Miscellanous Tips
+- All zombie hp is revealed when using 'tf_hud_target_id_disable_floating_health 0'.
+- Pyrovision Goggles help with identifying zombie position by sound, as low passive noises
+  become more clear.
+		
+Vending Machine Costs Reference, in rough order of importance.
+     Double Tap 			$2000
+	 Saxton's Ale 			$2000
+     Meraslixir				$3000
+     Ostarion's Reserve		$1500
+     Head Rattle 			$1500
+
+To check:
+ Sentry Busters detonate if they cannot reach a player; do Tomb Detonators follow the same logic?
+ Medic can convert Tomb Detonators? Doesn't seem to be a sufficient time save to consider.
+	They still damage you too lol
+
+Stages
+ - Recall that there are a maximum of 26 active zombies of any combination at once.
+ - Zombies spawn progressively faster each stage.
+ - Generally, there's an 18s intermission between each stage.
+ - Refer to Mission Notes file for additional wave details like precise HP values.
+ - Zombie selection is generally random, with the exception of tanks.
+
+=Stage 1=
+ - 12 Basic
+
+=Stage 2=
+ - 21 Basic
+
+=Stage 3=
+ - 29 Basic
+
+=Stage 4=
+ 37 Zombies
+ - ~86% Basic
+ - ~14% Grapplers
+
+=Stage 5=
+ 45 Zombies
+ - ~75% Basic
+ - ~12.5% Burners
+ - ~12.5% Grapplers
+
+=Stage 6=
+ 50 Zombies
+ - ~86% Basic
+ - ~14% Corroders
+
+=Stage 7=
+ - 8 Tanks (8000HP)
+  - Taunts, then throws rocks below 6000hp
+
+=Stage 8=
+ 50 Zombies
+ - ~70% Basic
+ - ~10% Corroders
+ - ~10% Crawlers
+ - ~10% Grapplers
+
+=Stage 9=
+ 50 Zombies
+ - ~66% Basic
+ - ~11% Corroders
+ - ~11% Crawlers
+ - ~11% Grapplers
+
+=Stage 10=
+ 50 Zombies
+ - ~60% Basic
+ - ~10% Grapplers
+ - ~10% Corroders
+ - ~10% Burners
+ - ~10% Crawlers
+
+=Stage 11=
+ 50 Zombies
+ - ~66% Basic
+ - ~11% Corroders
+ - ~11% Crawlers
+ - ~11% Grapplers
+
+=Stage 12=
+ - 9 Tanks (9680HP)
+  - Taunts, then throws rocks below 8417hp
+
+=Stage 13=
+ Basic zombies move at max speed this wave onward (103.5%)
+ 50 Zombies
+ - ~50% Basic
+ - ~12.5% Bruisers
+ - ~12.5% Corroders
+ - ~12.5% Crawlers
+ - ~12.5% Grapplers
+
+=Stage 14=
+ 50 Zombies
+ - ~57% Basic
+ - ~14% Bruisers
+ - ~14% Corroders
+ - ~14% Crawlers
+
+=Stage 15=
+ 50 Zombies
+ - ~75% Grapplers
+ - ~25% Burners
+
+=Stage 16=
+ - 50 Tomb Detonators
+
+=Stage 17=
+ Zombies spawn at maximum rate this wave onward (1.1s)
+ 50 Zombies
+ - ~50% Basic
+ - ~10% Bruisers
+ - ~10% Corroders
+ - ~10% Crawlers
+ - ~10% Grapplers
+ - ~10% Tomb Detonators
+ - 2 Tanks (15590HP)
+  - First spawns 15s into stage, then another 13s later
+  - Taunts, then throws rocks below 13556hp
+
+=Stage 18=
+ 50 Zombies
+ - ~60% Basic
+ - ~10% Bruisers
+ - ~10% Corroders
+ - ~10% Crawlers
+ - ~10% Grapplers
+
+=Stage 19=
+ 50 Zombies
+ - ~60% Basic
+ - ~10% Bruisers
+ - ~10% Corroders
+ - ~10% Crawlers
+ - ~10% Grapplers
+ - 2 Tanks (18863HP)
+  - First spawns 15s into stage, then another 13s later
+  - Taunts, then throws rocks below 16403hp
+
+=Stage 20=
+ No audio cue to indicate wave start
+ 86 Zombies
+ - ~50% Basic
+ - ~8.3% Burners
+ - ~8.3% Bruisers
+ - ~8.3% Corroders
+ - ~8.3% Crawlers
+ - ~8.3% Grapplers
+ - ~8.3% Tomb Detonators
+ - 4 Tanks (20750HP)
+  - First spawns 17s into stage, then one every 30s
+  - Max 2 active at any time
+  - Taunts, then throws rocks below 18043hp
+=Bosses spawn 122s into stage=
+Unclear what spawn locations these use, seems to be quite far out in any direction.
+ - Giant Treadonator (90780hp, wields a chainsaw, occasionally fires rockets)
+  - Becomes aggressive below 47500hp, taunting before accelerating and firing rockets
+	more frequently.
+ - Giant Battlelord (77812hp, wields a minigun, occasionally fires rockets)
