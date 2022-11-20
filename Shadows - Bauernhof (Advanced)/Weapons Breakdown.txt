@@ -33,7 +33,7 @@ Bauernhof Weapons Breakdown
 	  - Selection Comments
 		- Scout should virtually always start with the pistol as it has the highest clip size.
 		  The SMG is worse than any of Scout's starting options, nor does it have an uberweapon upgrade.
-		  Not much needs to be said about the Ray Gun other than 13x damage, but the Uberweapon Stickybomb Launcher
+		  Not much needs to be said about the Ray Gun other than 11x damage, but the Uberweapon Stickybomb Launcher
 		  can potentially outclass it in certain scenarios:
 		  Ray Gun						Cactus Blast
 		  ========================================================
@@ -142,7 +142,7 @@ Bauernhof Weapons Breakdown
 	  - Selection Comments
 		- The Ray Gun is of course your best secondary, but you have some pretty goood selection of primaries until you get it.
 		  Strictly speaking, the Scattergun is better than the Shotgun, some may prefer the Punch Packer over the Shotgun. In
-		  either case, the B.M.M.H is easily the best shotgun at your disposal despite its abysmal dropoff (does 7x base damage, 
+		  either case, the B.M.M.H is easily the best shotgun at your disposal despite its abysmal dropoff (does 8x base damage, 
 		  no headshots, higher dmg than Ray Gun at close range, contender for top tank DPS); the Flamethrower option just seems 
 		  worse than a shotgun on grounds of effective range.
 	- Melee
@@ -169,7 +169,7 @@ Bauernhof Weapons Breakdown
 		- Factor in that you cannot get ammo from dispenser as Medic in you upgrade and weapon selection; note that you can
 		  get ammo from an engineer blowing up one of their buildings, however.
 	- Melee
-		- It's the Ubersaw. What else?
+		- It's the Ubersaw. What else? Note: the Ubersaw only returns 20% uber on hit.
 
  - Sniper
 	- Dud Chance: (1/15)
@@ -204,7 +204,9 @@ Bauernhof Weapons Breakdown
 		- Has a range limited to slightly greater than melee, indicated by the particle effect when firing.
 			- Quite dangerous to use but could have tank potential
 	- The Zeus Cannon (Base: Thunder Gun)
-		- Seems to just be the Thunder Gun but with more dmg?
+		- Will insta-kill any non-tank in the late game.
+		- Has double clip size vs the Thunder Gun.
+		- 1.09x fire rate
 	- Great Gatsby (Base: Pistol)
 		- 1.67x bullet damage
 	- The Pinch Hitter (Base: The Shortstop)
@@ -254,7 +256,7 @@ Bauernhof Weapons Breakdown
 		- 2x blast radius
 		- Clip size of 1
 	- The Cactus Blast (Base: Stickybomb Launcher)
-		- 1.5x explosive damage
+		- 1.45x explosive damage
 		- 1.5x blast radius
 		- 1.15x fire rate
 		- Stickybombs stick to enemies
@@ -264,13 +266,13 @@ Bauernhof Weapons Breakdown
 		- 2x bullets per shot
 		- 500 primary ammo
 	- The Grand Slam (Base: Heavy Shotgun)
-		- 0.6x bullet damage
+		- 0.63x bullet damage
 		- 10x bullets per shot
 		- 3.5x fire rate
 		- Reload entire clip at once
 	- Dell-OROM's Lament (Base: Engineer Shotgun)
 		- Cannot Headshot
-		- 1.9x bullet damage
+		- 1.88x bullet damage
 		- 3x bullets per shot
 		- Bullets penetrate +1 enemies
 		- 2x fire rate
@@ -291,3 +293,10 @@ Bauernhof Weapons Breakdown
 	- The Bristleback (Base: The Huntsman)
 		- 2.7x bullet damage
 		- Fires +3 arrows in a horizontal spread
+
+Super Shank
+ - After bringing the beer that spawns on the tractor to the Demoman near the haybales, you are granted access to the
+   Super Shank, a melee weapon that deals 1500 damage per hit, allowing it to insta-kill all normal zombies before Stage 15.
+ - Has a cleave attack.
+ 
+ 

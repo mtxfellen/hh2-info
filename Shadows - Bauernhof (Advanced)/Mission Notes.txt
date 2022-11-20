@@ -12,10 +12,12 @@ Mission Notes
    - Zombies gain hp and speed each round.
    - Most zombies emit sounds passively, revealing their location.
    - All zombie hp is revealed when using 'tf_hud_target_id_disable_floating_health 0'.
- - Weapons can be bought from a dumpster that spawns from Wave 2 onward.
-   - Weapons replaced by those from the dumpster are not lost - they can be equipped again
-     from the Upgrades Station under Extra Loadout Items, and the upgrades bought for those
-	 weapons remain intact.
+ - Weapons can be bought from a dumpster that spawns after Stage 1 begins.
+   - Only one player can use the weapons dumpster at once.
+   - Weapons replaced by those from the dumpster are lost; you can only equip them again by finding them
+     in the dumpster.
+	 - You do not have to equip weapons that the dumpster offers, but it will free up access faster to it
+	   if you do so.
    - Weapon upgrades can be refunded from the upgrades station at any time.
  - Vending machines provide various perks until death (they don't stack with themselves).
      Saxton's Ale 			$2000		+150 max hp
@@ -25,7 +27,6 @@ Mission Notes
      Head Rattle 			$1500		Explosive Headshots Upgrade
  - Accuracy is doubled whilst crouching.
  - Accuracy is reduced 1/3 whilst moving (how is crouch-jumping handled?).
- - Players and zombies deal no random crits.
 
 Class Notes
 	 - All classes move at 93% speed (stock Demoman).
@@ -33,6 +34,8 @@ Class Notes
 	 - All classes can headshot by default; most projectiles, explosive weaponry and melee weapons cannot.
 	 - Players start with their secondary weapon and melee weapon, unless their choice is banned, in which
 	   case they start with the stock weapon for that slot.
+	Scout
+	 - Cannot double-jump.
 	Demoman
 	 - Starts with his primary instead of his secondary.
 	Engineer
@@ -42,7 +45,7 @@ Class Notes
 	Medic
 	 - Starts with all slots unlocked.
 	 - You passively act as a level 1 dispenser.
-	 - You cannot gain ammo from dispensers.
+	 - You can only gain ammo from dispensers whilst holding the Medi Gun.
 	 - Overheal amount is halved and decays much faster.
 	Sniper
 	 - Starts with all slots unlocked.
@@ -51,18 +54,25 @@ Class Notes
 Power-ups
  - At the bomb hatch, power-ups spawn after 60-85s, which are activated by one team member running
    over the hatch. 
- - Where applicable, the team member that activates the powerup is the one that benefits
+ - Zombies have a 3% chance of dropping a power-up on death, which despawn after 30s(?).
+ - Where applicable, the team member that activates the hatch power-up is the one that benefits
    from its effects.
- - Power-ups despawn at round end.
+ - Power-ups from zombies apply to the whole team where applicable.
+ - Hatch power-ups despawn at round end, so there is no point in preserving them.
+ - Power-ups last ~30s from activation.
  - Power-up effects
     - Nuke (kills all alive zombies)
     - Resupply
     - Free Money (to a value of $2000)
     - Instakill (all damage instantly kills target, including tanks)
+	- Max Ammo
+	- Double Points
+	- Fire Sale (dumpster appears at all possible locations, weapons can be bought for $10)
 
 Zombies!
  - Basic
 	- Will attempt to mob and melee the player (50dmg).
+	- Basic Medics don't appear to emit any sound?
  - Grapplers
 	- Moves at 70% speed.
 	- Will attempt to mob and melee the player, intermittently attempting to grapple to them, rapidly closing the distance.
@@ -84,6 +94,10 @@ Zombies!
 	- Charges at enemies, bash deals 88 dmg.
 		- Cannot turn whilst charging almost at all.
 	- Melee attack deals 78 dmg.
+ - Tomb Detonators
+	- Moves at 100% speed.
+	- Targets players and detonates with the same behaviour as sentry busters, detonating if they are killed before reaching a
+	  player.
  - Tanks
 	- Moves at 105% speed.
 	- High HP enemies that do 2x melee dmg & have 2x attack rate.
@@ -121,7 +135,7 @@ Stage Breakdown
 	- 7 Corroders
  Stage 7 
 	  30s intermission, 6.5s between spawns
-	  Upgrades station is locked for wave duration
+	  Upgrades station is locked for stage duration
 	- 8 Tanks (8000HP)
 		- Throws rocks below 6000hp
  Stage 8 
@@ -139,7 +153,7 @@ Stage Breakdown
 	- 5 Crawlers
 	- 5 Grapplers
  Stage 10 
-	  18s intermission, 1.5s between spawns
+	  18s intermission, 1.3s between spawns
 	  1045 Zombie HP
 	- 30 Basic (100% mov)
 	- 5 Grapplers
@@ -147,7 +161,7 @@ Stage Breakdown
 	- 5 Burners
 	- 5 Crawlers
  Stage 11 
-	  18s intermission, 1.5s between spawns
+	  18s intermission, 1.3s between spawns
 	  1149 Zombie HP
 	- 35 Basic (100% mov)
 	- 5 Corroders
@@ -155,11 +169,11 @@ Stage Breakdown
 	- 5 Grapplers
  Stage 12 
 	  30s intermission, 5s between spawns
-	  Upgrades station is locked for wave duration
+	  Upgrades station is locked for stage duration
 	- 9 Tanks (9680HP)
 		- Throws rocks below 8417hp
  Stage 13 
-	  20s intermission, 1.5s between spawns
+	  20s intermission, 1.3s between spawns
 	  1389 Zombie HP
 	- 26 Basic (103.5% mov, maxed out)
 	- 6 Bruisers
@@ -167,36 +181,34 @@ Stage Breakdown
 	- 6 Crawlers
 	- 6 Grapplers
  Stage 14 
-	  18s intermission, 1.5s between spawns
+	  18s intermission, 1.3s between spawns
 	  1527 Zombie HP
 	- 29 Basic
 	- 7 Corroders
 	- 7 Crawlers
 	- 7 Bruisers (1389hp)
  Stage 15
-	  18s intermission, 1.5s between spawns
+	  18s intermission, 1.2s between spawns
 	  1679 Zombie HP
 	- 38 Grapplers
 	- 12 Burners
  Stage 16 
-	  30.5s intermission
-	  Upgrades station is locked for wave duration
-	  Seems to use tank spawn locations
-	- Giant Treadonator (62004hp, wields a chainsaw, occasionally fires rockets)
-	- Giant Battlelord (53146hp, wields a minigun, occasionally fires rockets)
+	  18s intermission, 1.2s between spawns
+	- 50 Tomb Detonators (1846 hp)
  Stage 17
-	  20s intermission, 1.5s between spawns
+	  20s intermission, 1.1s between spawns
 	  2030 Zombie HP
-	- 30 Basic
-	- 5 Grapplers
-	- 5 Corroders
+	- 25 Basic
 	- 5 Bruisers
+	- 5 Corroders
 	- 5 Crawlers
+	- 5 Grapplers
+	- 5 Tomb Detonators
 	- 2 Tanks (15590HP)
-		- First spawns 15s into wave, then another 13s later
+		- First spawns 15s into stage, then another 13s later
 		- Throws rocks below 13556 HP
  Stage 18
-	  18s intermission, 1.5s between spawns
+	  18s intermission, 1.1s between spawns
 	  2233 Zombie HP
 	- 30 Basic
 	- 5 Bruisers
@@ -204,7 +216,7 @@ Stage Breakdown
 	- 5 Crawlers
 	- 5 Grapplers
  Stage 19
-	  18s intermission, 1.5s between spawns
+	  18s intermission, 1.1s between spawns
 	  2456 Zombie HP
 	- 26 Basic
 	- 6 Bruisers
@@ -212,19 +224,26 @@ Stage Breakdown
 	- 6 Crawlers
 	- 6 Grapplers
 	- 2 Tanks (18863HP)
-		- First spawns 15s into wave, then another 13s later
+		- First spawns 15s into stage, then another 13s later
 		- Throws rocks below 16403 HP
  Stage 20
-	  18s intermission, 1.3s between spawns
+	  18s intermission, 1.1s between spawns
 	  No audio cue
 	  2701 Zombie HP
-	- 51 Basic
+	- 44 Basic
 	- 7 Burners
 	- 7 Bruisers
 	- 7 Corroders
 	- 7 Crawlers
 	- 7 Grapplers
+	- 7 Tomb Detonators
 	- 4 Tanks (20750HP)
-		- First spawns 17s into wave, then one every 30s
+		- First spawns 17s into stage, then one every 30s
 		- Max 2 active at any time
 		- Throws rocks below 18043 HP
+	  Unclear what spawn locations these use, seems to be quite far out in any direction
+	  Bosses spawn 122s into stage
+	- Giant Treadonator (90780hp, wields a chainsaw, occasionally fires rockets)
+		- Becomes aggressive below 47500hp, taunting before accelerating and firing rockets
+		  more frequently.
+	- Giant Battlelord (77812hp, wields a minigun, occasionally fires rockets)
