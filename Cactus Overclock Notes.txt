@@ -40,6 +40,8 @@ Scout
 		 + 10% Damage bonus
 		 + Slows enemies on hit
 		 - No knockback
+		Available on:
+			Force-a-Nature
  - Secondaries
 	 - Stable Mod: Combo Bullets
 		 + For every kill, gain 5 seconds of crit boost
