@@ -4,24 +4,24 @@ Mission			#R	#1Time	#2Diff	#P	Diff
 Bloodlust		#1	19:49	00:09	6	VHard
 Creepside		#1	18:22	01:11	5	Medium
 Decay 	  (Int)	#1	16:12	00:43	5	Medium
-Decay 	  (Exp)	#1	18:24	03:57	5	Medium
+Decay 	  (Exp)	#1	18:24	02:24	5	Medium
 Decompose		#1	14:42	00:54	6	VHard
-Ghost Town(Int)	#1	14:06	00:39	4	Hard
-Ghost Town(Adv)	#1	18:03	02:11	4	Medium
+Ghost Town(Int)	#1	14:06	00:18	4	Medium
+Ghost Town(Adv)	#1	18:03	00:19	4	Medium
 Heatrock		#1	13:51	03:10	5	Medium
 Legerdemain		#1	12:26	02:16	5	Hard
 Lostvalley		#1	12:55	01:09	4	Easy
 Madhatttan(Int)	#1	13:10	00:58	4	Hard
-Madhatttan(Adv)	#1	16:57	03:55	6	Medium
-Madhatttan(Exp)	#1	19:23	00:54	5	Medium
-Marsbase		#1	13:47	01:38	5	Hard
-Nightsky		#1	17:17	00:43	3	Medium
-Null			#1	17:09	05:26	5	Medium
-Oxidize			#1	09:54	06:55	5	Medium
-Shadows			#-	32:37	00:18		??
+Madhatttan(Adv)	#1	16:57	03:28	6	Medium
+Madhatttan(Exp)	#1	19:23	00:18	5	Medium
+Marsbase		#1	13:47	00:58	5	Hard
+Nightsky		#1	15:43	01:34	6	Hard
+Null			#1	17:09	00:00	5	Medium
+Oxidize			#1	09:54	03:26	5	Medium
+Shadows			#1	29:10	00:59	6	Hard
 Shank 	   (PP)	#1	15:57	00:16	5	Hard
 Shank	   (SG)	#1	18:41	01:49	6	Hard
-Shank 	   (DD)	#1	16:20	02:21	6	Hard		
+Shank 	   (DD)	#1	16:20	02:21	6	Hard
 Shank 	   (MS)	#1	19:10	04:23	5	Hard
 Skeleclipse(CC)	#1	13:08	01:14	6	Hard
 Skeleclipse(Su)	#1	13:28	01:53	6	Hard
@@ -35,5 +35,5 @@ Villa			#1	15:04	05:16	6	Imposs
 Whitecliff (DD)	#1	20:02	03:10	6	Hard
 Whitecliff(DOV)	#1	11:32	03:28	6	VHard
 
-Total category leads: 32/33
-Last updated: 01:23 UTC, 20/11
+Total category leads: 33/33
+Last updated: 23:45 UTC, 30/11
